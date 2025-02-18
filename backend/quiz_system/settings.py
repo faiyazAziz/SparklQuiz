@@ -80,6 +80,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
     "http://localhost:3000",
     "http://127.0.0.1:3000",
+    "https://sparklquiz.onrender.com",
 ]
 
 AUTH_USER_MODEL = 'accounts.User'
